@@ -225,15 +225,7 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 
 This project is licensed under the **MIT License** unless stated otherwise.
 
----
 
-If you want, I can also make a **much better README (portfolio-quality)** with:
-
-* badges
-* dataset description
-* visual examples
-* methodology
-* results section
 
 which makes the repo **look much stronger for GitHub or a data science portfolio**.
 
