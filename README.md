@@ -1,9 +1,3 @@
-Here is a **complete README.md** you can use for the repository:
-Datathon-Data-Analysis
-
-You can copy and paste this directly into `README.md`.
-
----
 
 # Datathon Data Analysis
 
